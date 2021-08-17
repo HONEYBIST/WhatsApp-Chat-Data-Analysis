@@ -7,10 +7,7 @@ WhatsApp is one of the most used messenger applications today with more than 2 b
 
 3. Top 10 active users on the group (with a twist - Most active user had the least average message length ).
 
-Ghosts present in the group. (shocking results - 80+ participants who haven't even sent a single message!)
 4. Top 10 users most sent media.
-
-TK beats everyone by a mile!
 
 5. Most active hours and weekdays.
 
@@ -29,7 +26,6 @@ We will be using :
 * Datetime Format
 * pandas for analysis.
 * matlotlib and seaborn for visualization.
-* emoji to deal with emojis.
 * counter: allows you to count the items in an iterable list.
 
 
